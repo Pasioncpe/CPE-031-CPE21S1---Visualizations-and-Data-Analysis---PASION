@@ -7,6 +7,6 @@
 - Program and Section: CPE21S1
 
 # Terms
-- [-] Prelim
-- [x] Midterm
-- [x] Finals
+- [~] Prelim
+- [-] Midterm
+- [-] Finals
