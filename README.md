@@ -1,4 +1,4 @@
-### CPE-031: Visualizations and Data Analysis
+## CPE-031: Visualizations and Data Analysis
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/bdb60d93-84da-4233-ae05-849279305d6d" />
 
@@ -7,9 +7,6 @@
 # This is peak.
   
 <div align="center">
-
-
-
 *Course repository for CPE031*
 
 </div>
