@@ -1,7 +1,9 @@
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/bdb60d93-84da-4233-ae05-849279305d6d" />
 
 <div align="center">
+  
 # This is peak.
+  
 </div>
 
 # CPE-031-CPE21S1---Visualizations-and-Data-Analysis---PASION
