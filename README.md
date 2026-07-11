@@ -4,21 +4,64 @@
   
 # This is peak.
   
+<div align="center">
+
+# CPE-031: Visualizations and Data Analysis
+
+*Course repository for CPE031*
+
 </div>
 
-# CPE-031 (Visualizations-and-Data-Analysis)
-- A repository for the course Visualizations and Data Analysis (CPE031).
-- Contains HOAs, Seatworks, Homeworks, Projects, and etc.
+---
 
-# Student Info
-- Student Name: Al Twain D. Pasion
-- Program and Section: CPE21S1
-- School Year: 2026 - 2027, 1st Semester
-  
-# Current Term
-- [/] Prelim
-- [-] Midterm
-- [-] Finals
+## About
 
+This repository contains the coursework and requirements for **CPE031 – Visualizations and Data Analysis**, including:
 
-## Date of Creation: 7/11/2026
+- Hands-on Activities (HOAs)
+- Seatworks
+- Homeworks
+- Laboratory Exercises
+- Projects
+- Other course-related outputs
+
+---
+
+## Student Information
+
+| Field | Details |
+| :---- | :------ |
+| **Student Name** | |
+| **Program & Section** | |
+| **School Year** | |
+
+---
+
+## Current Term
+
+| Term | Progress |
+| :--- | :------- |
+| **Prelim** | `█░░░░░░░░░░░░░░░░░░░` **5%** |
+| **Midterm** | `░░░░░░░░░░░░░░░░░░░░` **0%** |
+| **Finals** | `░░░░░░░░░░░░░░░░░░░░` **0%** |
+
+---
+
+## Repository Structure
+
+```text
+CPE-031
+│
+├── HOAs/
+├── Seatworks/
+├── Homeworks/
+├── Laboratory Exercises/
+├── Projects/
+└── README.md
+```
+
+---
+
+## Date Created
+
+**July 11, 2026**
