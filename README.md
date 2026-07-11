@@ -31,9 +31,9 @@ This repository contains the coursework and requirements for **CPE031 – Visual
 
 | Field | Details |
 | :---- | :------ |
-| **Student Name** | |
-| **Program & Section** | |
-| **School Year** | |
+| **Student Name** | Al Twain D. Pasion |
+| **Program & Section** | CPE21S1 |
+| **School Year** | 2026-2027, 1st Semester |
 
 ---
 
@@ -52,11 +52,6 @@ This repository contains the coursework and requirements for **CPE031 – Visual
 ```text
 CPE-031
 │
-├── HOAs/
-├── Seatworks/
-├── Homeworks/
-├── Laboratory Exercises/
-├── Projects/
 └── README.md
 ```
 
