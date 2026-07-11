@@ -1,3 +1,5 @@
+#### CPE-031: Visualizations and Data Analysis
+
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/bdb60d93-84da-4233-ae05-849279305d6d" />
 
 <div align="center">
@@ -6,7 +8,7 @@
   
 <div align="center">
 
-# CPE-031: Visualizations and Data Analysis
+
 
 *Course repository for CPE031*
 
@@ -49,17 +51,7 @@ This repository contains the coursework and requirements for **CPE031 – Visual
 
 ## Repository Structure
 
-```text
-CPE-031
-│
-├── HOAs/
-├── Seatworks/
-├── Homeworks/
-├── Laboratory Exercises/
-├── Projects/
-└── README.md
-
----
+WIP
 
 ## Date Created
 
