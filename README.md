@@ -6,16 +6,17 @@
   
 </div>
 
-# CPE-031-CPE21S1---Visualizations-and-Data-Analysis---PASION
+# CPE-031 (Visualizations-and-Data-Analysis)
 - A repository for the course Visualizations and Data Analysis (CPE031).
+- Contains HOAs, Seatworks, Homeworks, Projects, and etc.
 
 # Student Info
 - Student Name: Al Twain D. Pasion
 - Program and Section: CPE21S1
 - School Year: 2026 - 2027, 1st Semester
   
-# Terms
-- [~] Prelim
+# Current Term
+- [/] Prelim
 - [-] Midterm
 - [-] Finals
 
