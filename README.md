@@ -52,8 +52,12 @@ This repository contains the coursework and requirements for **CPE031 – Visual
 ```text
 CPE-031
 │
+├── HOAs/
+├── Seatworks/
+├── Homeworks/
+├── Laboratory Exercises/
+├── Projects/
 └── README.md
-```
 
 ---
 
