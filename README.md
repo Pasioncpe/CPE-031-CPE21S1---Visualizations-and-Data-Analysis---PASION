@@ -35,8 +35,8 @@ This repository contains the coursework and requirements for **CPE031 – Visual
 
 | Term | Progress |
 | :--- | :------- |
-| **Prelim** | `█░░░░░░░░░░░░░░░░░░░` **5%** |
-| **Midterm** | `░░░░░░░░░░░░░░░░░░░░` **0%** |
+| **Prelim** | `█████████████████████` **100%** |
+| **Midterm** | `██░░░░░░░░░░░░░░░░░░` **5%** |
 | **Finals** | `░░░░░░░░░░░░░░░░░░░░` **0%** |
 
 ---
