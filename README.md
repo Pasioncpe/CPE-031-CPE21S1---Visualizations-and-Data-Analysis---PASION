@@ -1,7 +1,6 @@
 ## CPE-031: Visualizations and Data Analysis
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/bdb60d93-84da-4233-ae05-849279305d6d" />
-
 *Course repository for CPE031*
 
 ---
@@ -66,7 +65,6 @@ CPE-031-CPE21S1---Visualizations-and-Data-Analysis---PASION/
 │   ├── Hands-On-Activity 8 Visualizing Variability.pdf
 │   ├── Hands-On-Activity 9 Exploring Data Visually Copy.pdf
 │   ├── Hands-On-Activity 10 Explaining Visually to Influence with Data.pdf
-│   ├── HOA 10/
 │   ├── Hands-On-Activity 12 Data Dashboard Taxonomies.pdf
 │   └── Hands-On-Activity 13 Designing a Purpose-Driven Data Dashboard.pdf
 ```
