@@ -71,8 +71,6 @@ CPE-031-CPE21S1---Visualizations-and-Data-Analysis---PASION/
 │   └── Hands-On-Activity 13 Designing a Purpose-Driven Data Dashboard.pdf
 ```
 
-> **Note:** The tree above groups files by type for readability. The files currently sit together in the repository root. If you'd like the folders to match, move the files into `Datasets/`, `Notebooks/`, and `Hands-On Activities/`.
-
 ---
 
 ## Contents
