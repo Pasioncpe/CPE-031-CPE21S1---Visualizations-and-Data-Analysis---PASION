@@ -53,6 +53,7 @@ CPE-031-CPE21S1---Visualizations-and-Data-Analysis---PASION/
 │
 ├── Assignments
 │   └── Assignment_1_1.ipynb
+│   └── Assignment_10_1.pdf
 │
 ├── Hands-On Activities/
 │   ├── Hands-on Activity 1  Pivot Charts.pdf
@@ -95,6 +96,7 @@ CPE-031-CPE21S1---Visualizations-and-Data-Analysis---PASION/
 | File                    | Description                    |
 |:------------------------|:-------------------------------|
 | `Assignment_1_1.ipynb`  | Jupyter Notebook assignment    |
+| `Assignment_10_1.pdf`   | PDF File Reflection            |
 
 ### Datasets
 
