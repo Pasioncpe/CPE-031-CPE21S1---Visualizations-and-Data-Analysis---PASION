@@ -94,8 +94,6 @@ CPE-031-CPE21S1---Visualizations-and-Data-Analysis---PASION/
 | 12  | Data Dashboard Taxonomies                      | Finals  |
 | 13  | Designing a Purpose-Driven Data Dashboard      | Finals  |
 
-> HOA 11 isn't in the repository yet. Add it, or remove this note if it wasn't assigned. Also adjust the Term column to match your actual schedule.
-
 ### Assignments
 
 | File                    | Description                    |
